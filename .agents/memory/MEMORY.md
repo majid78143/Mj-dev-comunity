@@ -1,0 +1,1 @@
+- [HTML uploads and developer display](html-upload-and-developer-display.md) — mobile-first UI, admin-editable developer section, and text-only sanitized HTML storage.
